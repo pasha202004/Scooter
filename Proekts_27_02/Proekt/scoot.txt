@@ -1,0 +1,3 @@
+Scooter price is 523$, scooter model is x, number of wheel is 2, distance for which an electric scooter is designed is 75 km, scooter speed is 35km/h
+Scooter price is 210$, scooter model is d, number of wheel is d, scooter drive is AWD
+Scooter price is 367$, scooter model is b, number of wheel is b, the scooter can withstand 125kg, scooter made with metal
